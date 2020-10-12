@@ -1,0 +1,56 @@
+                              The Importance Of UNIX
+
+Unix in not limited to specific computers other operation system like using a microprocessors as a cpu.the good thing about this is that run on all sizes of computers using a wide range of microprocessors.moerover,current versions of many other operating systems have been revised to include the capability to run UNIX applications and connect smoothly with UNIX.
+
+The operation system UNIX was found on its begginings of MULTICS.and it stands for multiplexed operating and computing system,where the whole project began on 1960s time period and in 1969 the project was pulled out by bell laboratories.
+
+It plays aprecious role by counting all of the various flavors of UNIX and all of the Linux Flavors(which are sort of descendants of UNIX systems)would make up a large portion of all of the computers in operation.The operatiog system UNIX has agreat importance becasue it was mainly designed to handle multiple user which was connected to a central hub which,in trun,it may be connected with the other hubs.This defines a network with a star topology which,amazingly enough,is the same as the basic structure of the entire internet.the most prevalent operating system in use was UNIX which in a nut shell is an operating system which at one point in time.this operating system has agreat impact in business ad scientific sectors.
+
+We also heard about a UNIX system and non-AT&T around 1990 or 1991 ,from the study we have found that there are alots of incidence at a Usenix conference where they working as a team in adifferent version with that of BSD UNIX that had been purged of AT&T codeon when this kind of thing was really anacademic effort-there was no way we can run on a cheap Intel-based Pc.However it was familiar as a long-term goal of the GNU project there musthave acomplete OS,although is true that in the earlier times they were still trying o focus on commands and compilers
+
+
+When we started with LINUX some years ago on fooling around,and it creates a awareness in the real-world installations like Google,it was out of our idea that how good LINUX was,because we are trying to look as it as a user not as systems programmer.
+
+Once we start updating abook,and we found nice result,which forced me to go deeper.we have started working with differnr LINUX systems like FreeBSD and SUSE we found that it was running on two spare desktop boxws.after that we decided to buy a anther box to run solaris,and we did it and finally decided to add it in a Macintosh to run OS X,where a UNIX kernel was existed.There was abook in which it was more than 17000 lines of different example code was there which was covered about 300 system calls,and we are trying to test all the examples on all four systems,we are rying to find out how the other thress systems would stack up against LINUX,where each of which was came or originated in some way from genuine UNIX AT&T?
+
+We found a surprising result,as it turned out True,the LINUX we using the latest UNIX standard was well behind solaris in conforming to,however it was lack of POSIX threads,POSIX interprocess communication,and some other system calls,but the real thing was that whatever was there was complete,solid and,especially,more than enough.we have discovered LINUX-it's targeted at the most critical industrial applications,has no academic exercise .Furthermore,although we are trying to write the book,linux O/S kept evolving.it was now posix threads.
+It has a great commercial domination,we have good idea that LINUX creates abig role,on SCO'S litigation judging from the news articles about,Microsoft's Jitters,and Sun's decline,however the most important thing of LINUX is socially and technically?it's this:
+Linux and BSD-derved systems are open source,unlike other UNIX clones,so that the users can have the source if they want to use it orsimply want it,they can also that vendors who improve the source.we have different examples of that ,for example Red hat,have to share their improvements.the users have a chioce to be totally self-sufficient,building their own kernel and compiler.Otherwise,they have choice to use a commercial distribution professionals and students can learn how real OS is put together.
+
+If we think about developing countries LINUX is perfect,because to educae their knowledge worksand to make them skilled,they can use it .on the other hand,they can deploy by running foul of intellectual-property agreements,or without speanding cash or and which can make them self-sufficent rather than being dependent on European technology companies and US.
+
+From statistics we have found that in the last 30 years the operating system UNIX is still known as the storong,versatile,in aword simply the best operating systems in the world,however the popularity of this operating system is hinges on its simplicity,its it has ability in running in various different machines,open standards design,and it is also good for its portability system.
+
+the important thing about UNIX is that it was and reliable ,multi-user,secure,operating system that continues to dominate the enterprise web and application hosting landscape.
+
+In the present time the computers experts believe that for the web hosting UNIX is the best choice,where the another best alternative is LINUX and someof
+The biggest vendors like IBM are strongly backing.
+
+One of the biggest reasons for using UNIX is networking capability .with other operating systems,additional software must be purchased for networking.with UNIX,networking capbaility is simply part of the operating system.UINX is ideal for such thungs as world wide e-mail and connecting to the internet.
+
+If we try to compare between windows and LINUX we can find a clear idea,which one is more secure,reliable and chatheap.from the statistics we have found taht we know that UNIX operating system is more secure and less expensive than that Microsoft windows NT severs.it iiis out of skepticism that,eachpoint can be argued,but no one can argue the fact that many UNIX operating system flavors are free.everbody need to remember one thing about security ,one of the report showing a different result which is aggregation of UNIX operation system flavors versus windows operation system in a different battle field lieky web-hosting enviroment clearly reveals that it takes a lot of time if the hacker want to hack a UINX based server.
+
+If we assume an enterprise which is based on Microsoft based messaging but not independant,where Microsoft active sever pages ASP ,office access^a,,BIZTALK sercvers or any other proprietary software.for instance,windows servers will undoubtedly be a piece of the SOA puzzle that this article reviews,the reason behind this is that as they have no other choice if they need to run that kind of software.
+
+UNIX operating system was written in a machine independent language.so UNIX and UNIX -LIKE operating systems can on a variety of hardware.these systems are availbes from many diffenent sources,some of them at no cost.Becasue of yhis diversity and the ability to utilize the same user-interface on many different systems UNIX is said to be an opensystem.
+
+Everything in UNIX is either afile or process .A process is an executing program identified by a unique PID .a file is a collection of data. They are creaed by users using text editors ,running compilers etc.
+
+Although we don't need to say ,what the future may bring -virtualization, compelte services,mash-up or portlet-based application front ends with shared computing hosting and database environments-somewhere out there you will still have UNIX severs doing what they do best: providing reliable operating system.from this information we can get clear idea of history of UINX servers in the enterprise and how important they are to the SOA puzzle drills into and exposes which technologies are used for each SOA implementation and platforms on which they perform best.
+
+
+Reference and bibliography:
+
+1. understanding operating systems fourth edition,by IDA M.FLYNN & Mclver Mchoes
+
+2. operation systems internals and design principles,fifth edition by William Stallings
+
+3. http://WWW.unix.com/
+
+4. http:// tutorial.jcwcn.com/Operation-Systems/Linux-and-other-OSs/2008-09-16/10803.html
+
+5.http://WWW.sharadavikas.com/CourceMeterials/mca34.PDF.  
+
+6.http://WWW.thisislondon.co.uk/standard/?ito+1640
+
+7.http://WWW.computing.net/
